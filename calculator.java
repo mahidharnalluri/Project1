@@ -1,3 +1,4 @@
+/* This program will give the basic concept of Calculator*/
 import java.util.Scanner;
 
  public class calculator
